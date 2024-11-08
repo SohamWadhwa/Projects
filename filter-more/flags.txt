@@ -1,0 +1,4 @@
+-g => Greyscale
+-r => Reflected
+-e => Edges
+-b => blur
